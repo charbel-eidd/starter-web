@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Charbel Eid charbel.eid@apgar-consulting.com @charbel_eiddd
 
 # THANKS
 

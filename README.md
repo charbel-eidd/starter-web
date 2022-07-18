@@ -15,3 +15,8 @@ Paragraph 3
 Paragraph 4 
 
 ## How To Contribute
+
+
+### Copyright
+
+2014 Git.Training.
